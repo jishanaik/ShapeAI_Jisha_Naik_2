@@ -1,4 +1,4 @@
-# ShapeAI_Jisha_Naik_2
+# ShapeAI_Jisha_Naik
 
 # SHAPEAI WEB DEV WITH NODEJS BOOTCAMP
 
